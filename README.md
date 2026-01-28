@@ -59,6 +59,7 @@ KPI creation and business-focused visualizations
 ## 🔗 Dataset & Project Files
 
 * **Data Source :** Kaggle
+* **Data link :** [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## 🚀 Key Learnings
 
