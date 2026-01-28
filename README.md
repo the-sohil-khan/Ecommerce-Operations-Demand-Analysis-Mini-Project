@@ -53,7 +53,7 @@ KPI creation and business-focused visualizations
 * Certain products exhibited high order volume but low revenue, suggesting pricing or margin inefficiencies
 * Demand trends revealed clear monthly and yearly patterns, useful for inventory and capacity planning
 
----
+--
 
 
 ## 🔗 Dataset & Project Files
@@ -63,7 +63,7 @@ KPI creation and business-focused visualizations
 ## 🚀 Key Learnings
 
 * While overall delivery performance was strong, a smaller portion of late deliveries and low-revenue high-volume products revealed clear opportunities for operational and pricing optimization. Demand trends also showed seasonal patterns that can support better inventory and capacity planning.
----
+--
 
 ## 📬 Contact
 
@@ -77,7 +77,5 @@ If you have suggestions, feedback, or would like to collaborate, feel free to co
 
 ## 📸 Screenshot Demo
 
-![World Indicators Analysis Dashboard](https://raw.githubusercontent.com/SohilKhan63/World-Indicators-Analysis/main/World%20Indicators%20Analysis%20Dashboard.png)
-
-![World Indicators Analysis Dashboard](https://github.com/SohilKhan63/World-Indicators-Analysis/blob/main/Data%20Modelling.png)
+![Ecommerce Analysis Dashboard](https://github.com/the-sohil-khan/Ecommerce-Operations-Demand-Analysis-Mini-Project/blob/main/DASHBOARD.png)
 
