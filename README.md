@@ -38,7 +38,7 @@ The dataset contains multiple relational tables including:
 Each table was cleaned and merged where required to enable operational and time-based analysis.
 
 
-##🔍 Key Analysis Performed
+## 🔍 Key Analysis Performed
 * Data cleaning and preprocessing
 * Feature engineering (delivery time, order trends)
 * Multi-table joins and aggregations
@@ -53,7 +53,7 @@ KPI creation and business-focused visualizations
 * Certain products exhibited high order volume but low revenue, suggesting pricing or margin inefficiencies
 * Demand trends revealed clear monthly and yearly patterns, useful for inventory and capacity planning
 
---
+---
 
 
 ## 🔗 Dataset & Project Files
@@ -63,10 +63,9 @@ KPI creation and business-focused visualizations
 ## 🚀 Key Learnings
 
 * While overall delivery performance was strong, a smaller portion of late deliveries and low-revenue high-volume products revealed clear opportunities for operational and pricing optimization. Demand trends also showed seasonal patterns that can support better inventory and capacity planning.
---
+
 
 ## 📬 Contact
-
 If you have suggestions, feedback, or would like to collaborate, feel free to connect.
 
 * Author: Sohil Khan
